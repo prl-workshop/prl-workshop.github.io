@@ -39,7 +39,6 @@ Topics of interest include, but are not limited to:
 To account for researchers with varying access to computational resources, we accept two types of submissions:
 
 * **Full Papers:** Up to 8 pages in RLC format, with potentially large-scale experiments.
-* **Short Papers:** 2-4 pages in RLC format, with proof-of-concept demonstrations (demos, code, blog posts).
 
 **Important Dates**
 
