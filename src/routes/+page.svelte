@@ -140,7 +140,7 @@
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 				<Person
-					name="Sheila McIlraith"
+					name="Sheila McIlraith (tentative)"
 					affiliation="University of Toronto"
 					link="https://www.cs.toronto.edu/~sheila/"
 					image="https://www.cs.toronto.edu/~sheila/img/McIlraith2-lowres.jpg"
@@ -164,13 +164,13 @@
 					image="https://webdocs.cs.ualberta.ca/~whitem/images/Amii_2020-07-20-240-cropped.jpg"
 				></Person>
 				<Person
-					name="Jacky Liang"
+					name="Jacky Liang (tentative)"
 					affiliation="Google DeepMind"
 					link="https://www.jacky.io"
 					image="https://www.jacky.io/assets/imgs/profile.png"
 				></Person>
 				<Person
-					name="Shimon Whiteson"
+					name="Shimon Whiteson (tentative)"
 					affiliation="University of Oxford / Waymo"
 					link="https://www.cs.ox.ac.uk/people/shimon.whiteson/"
 					image="https://www.cs.ox.ac.uk/files/7449//7-18-self-smallest.jpg"

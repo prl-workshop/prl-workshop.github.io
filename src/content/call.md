@@ -6,6 +6,7 @@ Topics of interest include, but are not limited to:
 
 * **Programs as Policies:** Representing decision-making logic through programmatic policies in Python or domain-specific languages to enhance generalization and interpretability.
 * **Programs as Reward Functions:** Synthesizing programs encoding reward functions for agent learning to alleviate the efforts of designing hand-crafted reward functions.
+* **Programs as Skill Libraries:** Representing acquired skills as programs, allowing for reusing and composing skills.
 * **Programmatically Generating Tasks:** Synthesizing programs that describe various tasks for agent and robot learning to increase the generalizability of learned policies.
 * **Programs as Environment Models:** Inferring executable codes to simulate environment dynamics and using them to get imagined data or plan as in model-based RL.
 
