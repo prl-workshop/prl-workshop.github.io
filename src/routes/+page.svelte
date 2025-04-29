@@ -164,17 +164,23 @@
 					image="https://webdocs.cs.ualberta.ca/~whitem/images/Amii_2020-07-20-240-cropped.jpg"
 				></Person>
 				<Person
+					name="Amy Zhang"
+					affiliation="UT Austin"
+					link="https://amyzhang.github.io/"
+					image="https://amyzhang.github.io/images/profile.png"
+				></Person>
+				<Person
 					name="Jacky Liang (tentative)"
 					affiliation="Google DeepMind"
 					link="https://www.jacky.io"
 					image="https://www.jacky.io/assets/imgs/profile.png"
 				></Person>
-				<Person
+				<!-- <Person
 					name="Shimon Whiteson (tentative)"
 					affiliation="University of Oxford / Waymo"
 					link="https://www.cs.ox.ac.uk/people/shimon.whiteson/"
 					image="https://www.cs.ox.ac.uk/files/7449//7-18-self-smallest.jpg"
-				></Person>
+				></Person> -->
 			</div>
 		</div></Block
 	>
