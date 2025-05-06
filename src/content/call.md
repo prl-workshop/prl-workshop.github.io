@@ -1,3 +1,5 @@
+[Open Review](https://openreview.net/group?id=rl-conference.cc/RLC/2025/Workshop/PRL)
+
 We invite the submission of research papers and position papers on the topic of programmatic representations for reinforcement learning and sequential decision-making. This workshop aims to bring together researchers from reinforcement learning, imitation learning, planning, search, and optimal control with experts in program synthesis and code generation to explore the use of programmatic structures to enhance agent learning.
 
 **Topics of Interest**
@@ -22,3 +24,5 @@ Topics of interest include, but are not limited to:
 **Submission Process**
 
 All submissions will be managed through OpenReview with a double-blind review process. Accepted papers will be presented during poster sessions, with exceptional submissions selected for oral presentations.
+
+Please submit your paper to the [Open Review](https://openreview.net/group?id=rl-conference.cc/RLC/2025/Workshop/PRL) page.
