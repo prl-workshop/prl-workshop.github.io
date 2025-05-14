@@ -12,7 +12,7 @@ Topics of interest include, but are not limited to:
 * **Programmatically Generating Tasks:** Synthesizing programs that describe various tasks for agent and robot learning to increase the generalizability of learned policies.
 * **Programs as Environment Models:** Inferring executable codes to simulate environment dynamics and using them to get imagined data or plan as in model-based RL.
 
-**Submission Format:** We accept submissions up to 8 pages in RLC format.
+**Submission Format:** We accept submissions up to 9 pages either ICML (RLC) or NeurIPS format.
 
 **Important Dates**
 
