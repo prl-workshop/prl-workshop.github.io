@@ -70,11 +70,15 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:10--9:40</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 1</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 1: Kevin Ellis</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:40--10:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 2</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 2: Martha White</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:10--10:45</td>
@@ -86,11 +90,15 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00--11:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 3</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 3: Amy Zhang</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:30--12:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 4</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 4: Sheila McIlraith</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00--13:00</td>
@@ -104,11 +112,15 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00--14:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 5</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 5: Yuandong Tian</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30--15:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Invited talk 6</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Invited talk 6: Jacky Liang</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00--16:00</td>
@@ -140,7 +152,7 @@
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 				<Person
-					name="Sheila McIlraith (tentative)"
+					name="Sheila McIlraith"
 					affiliation="University of Toronto"
 					link="https://www.cs.toronto.edu/~sheila/"
 					image="https://www.cs.toronto.edu/~sheila/img/McIlraith2-lowres.jpg"
@@ -170,7 +182,7 @@
 					image="https://amyzhang.github.io/images/profile.png"
 				></Person>
 				<Person
-					name="Jacky Liang (tentative)"
+					name="Jacky Liang"
 					affiliation="Google DeepMind"
 					link="https://www.jacky.io"
 					image="https://www.jacky.io/assets/imgs/profile.png"
