@@ -7,6 +7,7 @@
 	import NavLink from '$lib/components/NavLink.svelte';
 	import Call from '../content/call.md';
 	import Intro from '../content/intro.md';
+	import PaperList from '$lib/components/PaperList.svelte';
 </script>
 
 <svelte:head>
@@ -264,6 +265,10 @@
 		<div class="text-base">
 			<Call />
 		</div>
+	</Block>
+	<Block>
+		<h1 class="mb-4 text-2xl font-bold" id="papers">Accepted Papers</h1>
+		<PaperList />
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
