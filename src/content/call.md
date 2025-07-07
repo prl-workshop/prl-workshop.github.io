@@ -26,3 +26,14 @@ Topics of interest include, but are not limited to:
 All submissions will be managed through OpenReview with a double-blind review process. Accepted papers will be presented during poster sessions, with exceptional submissions selected for oral presentations.
 
 Please submit your paper to the [<u>Open Review</u>](https://openreview.net/group?id=rl-conference.cc/RLC/2025/Workshop/PRL) page.
+
+<h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
+
+Please incorporate reviewers' feedbacks and prepare for your camera-ready submission. Please submit your camera-ready version on OpenReview. Your camera-ready submission should be de-anonymized, and include at most 9 pages (excluding the references and appendices). The paper can be in RLC or NeurIPS formats, with headnote/footnote “RLC 2025 Workshop on Programmatic Reinforcement Learning”.
+
+Camera-Ready LaTeX Templates:
+
+- [<u>RLC Format</u>](/tex/rlc2025_prl_rlj.sty)
+- [<u>NeurIPS Format</u>](/tex/rlc2025_prl_neurips.sty)
+
+The camera-ready deadline is July 25, 2025, Anywhere on Earth (AoE).
