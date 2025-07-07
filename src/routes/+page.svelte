@@ -42,6 +42,8 @@
 				<NavLink href="#organizers">ORGANIZERS</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#call">CALL FOR PAPERS</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#papers">ACCEPTED PAPERS</NavLink>
 			</div>
 		</div>
 	</div>
