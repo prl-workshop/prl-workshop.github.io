@@ -67,29 +67,37 @@
 				</thead>
 				<tbody>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00--9:10</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00--9:05</td>
 						<td class="w-full border border-gray-300 px-4 py-2"><strong>Opening remarks</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:10--9:40</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:05--9:35</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
 							><strong>Invited talk 1: Kevin Ellis</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:40--10:10</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:35--10:05</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
 							><strong>Invited talk 2: Martha White</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:05--10:10</td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Brief transition</strong></td
+						>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:10--10:45</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Oral talks</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							><strong>Spotlight presentations (7 papers × 5 mins)</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:45--11:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Coffee break</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Morning break</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00--11:30</td>
@@ -104,14 +112,12 @@
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00--13:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Lunch</strong></td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00--12:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Poster session</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:00--14:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Poster session 1</strong></td
-						>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:30--14:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Lunch break</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00--14:30</td>
@@ -122,21 +128,22 @@
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30--15:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 6: Jacky Liang</strong></td
+							><strong>Invited talk 6: Wentao Yuan</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00--16:00</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00--15:15</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Poster session 2</strong></td
+							><strong>Additional time for discussions/overflow</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:00--16:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Coffee break</strong></td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:15--15:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Afternoon break</strong></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:15--17:00</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:45--17:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
 							><strong>Panel discussion</strong></td
 						>
@@ -185,10 +192,10 @@
 					image="https://yuandong-tian.com/imgs/bio.png"
 				></Person>
 				<Person
-					name="Jacky Liang"
+					name="Wentao Yuan"
 					affiliation="Google DeepMind"
-					link="https://www.jacky.io"
-					image="https://www.jacky.io/assets/imgs/profile.png"
+					link="https://github.com/wentaoyuan"
+					image="/imgs/wentao.jpg"
 				></Person>
 				<!-- <Person
 					name="Shimon Whiteson (tentative)"
