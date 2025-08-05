@@ -67,85 +67,87 @@
 				</thead>
 				<tbody>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00--9:05</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Opening remarks</strong></td
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00--9:10</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Opening Remarks</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:05--9:35</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:10--9:40</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 1: Kevin Ellis</strong></td
+							><strong
+								>Invited Talk: Kevin Ellis - Learning how the world works by writing code</strong
+							></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:35--10:05</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:40--10:10</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 2: Martha White</strong></td
-						>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:05--10:10</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Brief transition</strong></td
+							><strong
+								>Invited Talk: Martha White - Planning with Options, with speculations on
+								intersections with programmatic RLLearning</strong
+							></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:10--10:45</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Spotlight presentations (7 papers × 5 mins)</strong></td
+							><strong>Spotlight Presentations (7 papers × 5 mins)</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:45--11:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Morning break</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Morning Break</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00--11:30</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 3: Amy Zhang</strong></td
+							><strong
+								>Invited Talk: Amy Zhang - Leveraging Programmatic Structure in Reinforcement
+								Learning</strong
+							></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:30--12:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 4: Sheila McIlraith</strong></td
+							><strong
+								>Invited Talk: Sheila McIlraith - Programmatic Reward Models: Exploiting reward
+								function structure to help agents learn, plan, and remember</strong
+							></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00--12:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Poster session</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Poster Session</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:30--14:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Lunch break</strong></td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Lunch</strong></td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00--14:30</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 5: Yuandong Tian</strong></td
+							><strong
+								>Invited Talk: Yuandong Tian - Leveraging Symbolic Solvers For Better Reasoning
+								Capabilities</strong
+							></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30--15:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited talk 6: Wentao Yuan</strong></td
+							><strong>Invited Talk: Wentao Yuan</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00--15:15</td>
-						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Additional time for discussions/overflow</strong></td
-						>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:15--15:45</td>
-						<td class="w-full border border-gray-300 px-4 py-2"><strong>Afternoon break</strong></td
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00--15:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2"><strong>Afternoon Break</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:45--17:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Panel discussion</strong></td
+							><strong>Networking Session</strong></td
 						>
 					</tr>
 				</tbody>
