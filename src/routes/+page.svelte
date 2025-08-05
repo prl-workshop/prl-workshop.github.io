@@ -136,7 +136,7 @@
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30--15:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2"
-							><strong>Invited Talk: Wentao Yuan</strong></td
+							><strong>Invited Talk: Wentao Yuan - An API for the Physical World</strong></td
 						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
