@@ -197,7 +197,7 @@
 					name="Wentao Yuan"
 					affiliation="Google DeepMind"
 					link="https://github.com/wentaoyuan"
-					image="/imgs/wentao.jpg"
+					image="/imgs/wentao.jpeg"
 				></Person>
 				<!-- <Person
 					name="Shimon Whiteson (tentative)"
